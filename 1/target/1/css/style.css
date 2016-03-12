@@ -1,0 +1,21 @@
+
+th {
+    height: 50px;
+}
+
+table, th, td {
+   border: 1px solid black;
+   word-wrap:break-word;
+   text-align: center;
+}
+
+table {
+   table-layout: fixed;
+   width: 100%; /* Ширина таблицы в процентах */
+
+}
+ 
+
+ .col1{
+ width: 50%
+ }
